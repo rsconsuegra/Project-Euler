@@ -1,2 +1,2 @@
-# ep2
-My solution for Project Euler's problem 2 w/ Haskell
+# Project Euler
+My solutions for Project Euler problems  w/ Haskell
